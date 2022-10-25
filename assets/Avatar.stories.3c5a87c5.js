@@ -1,0 +1,2 @@
+import{A as t}from"./index.464c50f0.js";import"./index.eb40cfd4.js";import"./iframe.5dfaf5ca.js";import"./index.9b9ba8cf.js";import"./jsx-runtime.e79a1953.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/gustavonobrega.png",alt:"Gustavo Nobrega"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.3c5a87c5.js.map
